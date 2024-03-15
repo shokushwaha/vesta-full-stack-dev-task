@@ -1,0 +1,13 @@
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.introduction {
+  width: 100%;
+  background-color: aliceblue;
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+}
